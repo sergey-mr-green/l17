@@ -1,5 +1,6 @@
 <?php
 define('CREATED',2013);
+
 define('SKIN','default');
 
 define('DB_HOST','localhost');
